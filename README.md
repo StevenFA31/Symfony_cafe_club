@@ -106,31 +106,10 @@ Le développeur utilise obligatoirement GIT pendant le travail. Ce même dépôt
 
 ### Critères de performance
 
-C1 : La maquette fournie correspond au besoin exprimé dans le brief
-C2 : L'interface correspond à la maquette fournie
-C3 : L'interface interagit dynamiquement avec le backend, ou l'interface est riche, ou l'interface est générée dynamiquement
-C5 : Le schéma de base de données fourni est cohérent vis-à-vis du besoin exprimé
-C6 : Les échanges entre le backend et la base de données sont réalisés conformément aux pratiques du métier
-C7 : Le backend est fonctionnel et sécurisé
-
-
-####Faire une liste à puces
-
-* Une puce
-* Une autre puce
-* Et encore une autre puce !
-
-Il faut simplement placer un astérisque devant les éléments de votre liste.
-
-`* Une puce`
-
-`* Une autre puce`
-
-`* Et encore une autre puce !`
-
-
-`* Une autre puce`
-
-    `* Une sous-puce`
-
+- C1 : La maquette fournie correspond au besoin exprimé dans le brief
+- C2 : L'interface correspond à la maquette fournie
+- C3 : L'interface interagit dynamiquement avec le backend, ou l'interface est riche, ou l'interface est générée dynamiquement
+- C5 : Le schéma de base de données fourni est cohérent vis-à-vis du besoin exprimé
+- C6 : Les échanges entre le backend et la base de données sont réalisés conformément aux pratiques du métier
+- C7 : Le backend est fonctionnel et sécurisé
 
